@@ -1,0 +1,25 @@
+[90m= [39m[34;4mOpenAI\Responses\Chat\CreateResponse[39;24m {#5068
+    +[1mid[22m: "[32mchatcmpl-A6ZYo135c4FizFDAqPq1V6rqbBRpY[39m",
+    +[1mobject[22m: "[32mchat.completion[39m",
+    +[1mcreated[22m: [35m1726130026[39m,
+    +[1mmodel[22m: "[32mgpt-4-0613[39m",
+    +[1msystemFingerprint[22m: [36mnull[39m,
+    +[1mchoices[22m: [
+      [34;4mOpenAI\Responses\Chat\CreateResponseChoice[39;24m {#5096
+        +[1mindex[22m: [35m0[39m,
+        +[1mmessage[22m: [34;4mOpenAI\Responses\Chat\CreateResponseMessage[39;24m {#5011
+          +[1mrole[22m: "[32massistant[39m",
+          +[1mcontent[22m: "[32mすみません、私はリアルタイム情報を提供する能力はありません。お住まいの地域の天気情報はウェブサイトやアプリでご確認ください。[39m",
+          +[1mtoolCalls[22m: [],
+          +[1mfunctionCall[22m: [36mnull[39m,
+        },
+        +[1mfinishReason[22m: "[32mstop[39m",
+      },
+    ],
+    +[1musage[22m: [34;4mOpenAI\Responses\Chat\CreateResponseUsage[39;24m {#5040
+      +[1mpromptTokens[22m: [35m14[39m,
+      +[1mcompletionTokens[22m: [35m60[39m,
+      +[1mtotalTokens[22m: [35m74[39m,
+    },
+  }
+
